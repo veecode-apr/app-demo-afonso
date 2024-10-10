@@ -1,0 +1,8 @@
+site_name: "app-demo-afonso"
+site_description: "app-demo-afonso"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
